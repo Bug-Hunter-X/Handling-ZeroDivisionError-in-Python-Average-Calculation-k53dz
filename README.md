@@ -1,0 +1,1 @@
+This repository contains a Python code example that demonstrates how to avoid the `ZeroDivisionError` exception when calculating the average of a list of numbers. The code gracefully handles the case of an empty list to prevent unexpected crashes. The solution section provides the same function with an improved way to handle empty lists.
